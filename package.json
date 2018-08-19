@@ -1,0 +1,23 @@
+{
+  "name": "periodic-table",
+  "version": "0.0.1",
+  "description": "just dynamic periodic table",
+  "main": "server.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yahyaKacem/periodic-table.git"
+  },
+  "keywords": [
+    "periodic",
+    "table",
+    "atoms",
+    "electrons"
+  ],
+  "author": "Yahya KAcem",
+  "license": "SEE LICENSE IN LICENCE",
+  "bugs": {
+    "url": "https://github.com/yahyaKacem/periodic-table/issues"
+  },
+  "homepage": "https://github.com/yahyaKacem/periodic-table#readme"
+}
